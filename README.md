@@ -13,6 +13,3 @@ install create-react-app via npm
 
 npm install -g create-react-app
 
-
-Create 
-create-react-app client

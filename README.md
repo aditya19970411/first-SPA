@@ -1,5 +1,5 @@
 # first-SPA
-contains a SPA which has express fro backend
+contains a SPA which has express for backend
 
 
 The folder structure is as follows:
